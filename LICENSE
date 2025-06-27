@@ -1,0 +1,23 @@
+Firefox 2.0.0.19 Portable by ManjaroLover153
+
+This project repackages Mozilla Firefox 2.0.0.19 into a portable, installer-free format for archival, educational, and legacy compatibility purposes.
+
+All original Firefox binaries and assets remain copyright © Mozilla Foundation and are licensed under the Mozilla Public License Version 1.1.
+
+This repackaging is provided "as-is", without any warranty. It is not affiliated with or endorsed by Mozilla.
+
+⚠ WARNING: Firefox 2.0.0.19 is outdated and contains multiple unpatched vulnerabilities. Do not use it for modern web browsing.
+
+---
+
+You are free to:
+✔ Use this archive for testing, development, or retro computing
+✔ Modify the launcher, folder layout, or packaging
+✔ Distribute modified versions **only if you include this notice**
+
+You are not allowed to:
+✘ Claim this is an official Mozilla product
+✘ Use the Firefox name or logo for branding without Mozilla’s permission
+✘ Use this build on production networks or systems
+
+Made for fun, education, and the retro web.
